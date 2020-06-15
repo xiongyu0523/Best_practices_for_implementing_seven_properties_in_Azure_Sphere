@@ -1,1 +1,1 @@
-# Best_practices_for_implementing_seven_properties_in_Azure_Sphere
+# 在Azure Sphere上实现高度安全物联网设备7个属性的最佳实践
