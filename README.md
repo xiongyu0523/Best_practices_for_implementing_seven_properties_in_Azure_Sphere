@@ -1,0 +1,1 @@
+# Best_practices_for_implementing_seven_properties_in_Azure_Sphere
